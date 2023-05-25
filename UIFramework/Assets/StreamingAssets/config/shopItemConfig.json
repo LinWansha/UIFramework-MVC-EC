@@ -1,0 +1,29 @@
+[
+  {
+    "ID": 1001,
+    "Name": "手套",
+    "Description": "增加暴击率",
+    "Icon": "image/1001",
+    "Type": 0,
+    "DisCount": 5, //折扣力度
+    "OriginalPrice":100 //原价
+  },
+  {
+    "ID": 1002,
+    "Name": "大剑",
+    "Description": "一件神奇的宝剑",
+    "Icon": "image/1002",
+    "Type": 1,
+    "DisCount": 9,
+    "OriginalPrice": 100
+  },
+  {
+    "ID": 1003,
+    "Name": "丹药",
+    "Description": "回复血量",
+    "Icon": "image/1003",
+    "Type": 2,
+    "DisCount": 1,
+    "OriginalPrice": 100
+  }
+]

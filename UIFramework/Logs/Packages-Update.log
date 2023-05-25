@@ -1,0 +1,9 @@
+
+=== Wed May 24 09:20:08 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.14.15 to 1.14.18
+  com.unity.ide.visualstudio from version 2.0.14 to 2.0.15

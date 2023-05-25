@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 1,
+    "Description": "LoginUI",
+    "Asset": "ui/LoginUI",
+    "Mode": 0
+  },
+  {
+    "ID": 2,
+    "Description": "LobbyUI",
+    "Asset": "ui/LobbyUI",
+    "Mode": 0
+  },
+  {
+    "ID": 3,
+    "Description": "BattleUI",
+    "Asset": "",
+    "Mode": 0
+  },
+  {
+    "ID": 4,
+    "Description": "LoadingUI",
+    "Asset": "",
+    "Mode": 1
+  },
+  {
+    "ID": 5,
+    "Description": "ui/KnapsackUI",
+    "Asset": "ui/KnapsackUI/KnapsackUI",
+    "Mode": 0
+  },
+  {
+    "ID": 6,
+    "Description": "�Ի���",
+    "Asset": "ui/DialogWindow",
+    "Mode": 1
+  },
+  {
+    "ID": 7,
+    "Description": "Ӣ����Ϣ",
+    "Asset": "ui/HeroInfo",
+    "Mode": 0
+  },
+  {
+    "ID": 8,
+    "Description": "ui/ShopUI",
+    "Asset": "ui/ShopUI",
+    "Mode": 0
+  }
+
+
+]
